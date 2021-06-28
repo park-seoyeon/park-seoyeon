@@ -24,7 +24,6 @@ thanks for coming to my github.</p>
     <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/>
     <img src="https://img.shields.io/badge/Vuetify-1867C0?style=flat-square&logo=Vuetify&logoColor=white"/>
     <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Semantic UI React-35BDB2?style=flat-square&logo=Semantic UI React&logoColor=white"/>
     <img src="https://img.shields.io/badge/Material UI-0081CB?style=flat-square&logo=Material-UI&logoColor=white"/>
     <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
     <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"/>
