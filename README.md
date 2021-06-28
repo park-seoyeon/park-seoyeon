@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=D9E5FF&height=300&section=header&text=park-seoyeon%20:D&fontSize=90&fontColor=4C4C4C)
+![header](https://capsule-render.vercel.app/api?type=slice&color=868686&height=300&section=header&text=park-seoyeon%20:D&fontSize=90&fontColor=FFA7A7)
 
 <h2 align="center">👋Hi there👋</h2>
 
