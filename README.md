@@ -4,7 +4,7 @@
 
 <p align="center">
 Hi, i'm seoyeon.😉<br>
-I am a beginner developer.🌱<br>
+I am a junior developer.🌱<br>
 thanks for coming to my github.🙋‍♀️</p>
 
 
