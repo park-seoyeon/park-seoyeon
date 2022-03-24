@@ -49,10 +49,12 @@ thanks for coming to my github.🙋‍♀️</p>
     <a href="https://www.notion.so/Home-e76b718e30ea4614bfd643b8a008b882" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
 </p>
 
+<div align=center>
 
+[![Solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=psy3153)](https://solved.ac/psy3153)
 
-​          ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=park-seoyeon&show_icons=true&theme=graywhite)   ![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=psy3153)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=park-seoyeon&show_icons=true&theme=graywhite)
 
-
+</div>
 
 
