@@ -53,6 +53,7 @@ thanks for coming to my github.🙋‍♀️</p>
 
 ​          ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=park-seoyeon&show_icons=true&theme=graywhite)   ![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=psy3153)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=portfolioExpert&layout=compact)](https://github.com/park-seoyeon/github-readme-stats)
 
 
 
